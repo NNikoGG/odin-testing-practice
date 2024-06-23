@@ -1,4 +1,3 @@
-// capitalize.js
 function capitalize(str) {
   if (typeof str !== "string") {
     return "";
